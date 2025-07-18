@@ -1,0 +1,10 @@
+
+# Ignore everything
+*
+
+# But do NOT ignore the folder and these two files
+!manova_ai_assistant/
+!manova_ai_assistant/**
+
+!requirements.txt
+!uv.lock
